@@ -1,2 +1,3 @@
-Supplementary Materials for SARS-CoV-2 Ribosomal Frameshifting Pseudoknot: Detection of Inter-viral Structural Similarity. 
-For additional information contact Ltrinity@uvic.ca or jabbari@uvic.ca
+Shapify: Paths to SARS-CoV-2 frameshifting pseudoknot
+Supplementary Materials
+https://doi.org/10.1371/journal.pcbi.1010922
